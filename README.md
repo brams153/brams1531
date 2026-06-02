@@ -70,3 +70,8 @@
 </div>
 
 ###
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/brams153/brams153/snake-output/snake.svg" alt="Snake animation" />
+
+###
